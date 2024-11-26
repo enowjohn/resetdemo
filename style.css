@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+#lable {
+    font-size: 10em;
+    font-family: verdana;
+}
+
+#btncontainer {
+    margin-top: 5%;
+}
+
+.btn {
+    font-size: 2em;
+    font-family: verdana;
+    background-color: #008CBA; /* Blue */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: rgb(55, 55, 182);
+}
